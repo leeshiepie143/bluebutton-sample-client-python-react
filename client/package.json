@@ -64,7 +64,7 @@
     "react-error-overlay": "6.0.9",
     "vite": "^6.0.9",
     "vite-plugin-eslint": "^1.8.1",
-    "vitest": "^3.1.2"
+    "vitest": "^4.1.11"
   },
   "resolutions": {
     "@types/react": "^17.0.2"
